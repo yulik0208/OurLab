@@ -87,7 +87,8 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-*.config
+#Ban app.config
+app.config
 # Chutzpah Test files
 _Chutzpah*
 
